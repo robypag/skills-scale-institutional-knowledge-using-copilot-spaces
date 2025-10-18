@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Initial team composition including key roles
 
 ## Project One-pager Template
 - Project name:
@@ -28,6 +29,12 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Developers (number and skill areas)
+  - Product Manager
+  - Project Manager or Scrum Master
+  - UX Designer (if user-facing features)
+  - Data Analyst (if metrics/analytics required)
+  - Technical Writer (if documentation needs)
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
@@ -35,6 +42,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Identify and assign key roles (PM, Project Manager/Scrum Master, Developers, UX Designer, Data Analyst, Technical Writer)
+- [ ] Confirm UX Designer availability for user-facing features
+- [ ] Confirm Data Analyst availability for metrics and analytics
+- [ ] Confirm Technical Writer availability for documentation needs
 
 ## Decision Gate
 Move to planning when:
